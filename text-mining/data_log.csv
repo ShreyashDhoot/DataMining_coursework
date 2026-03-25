@@ -1,0 +1,25 @@
+Message,Category
+battery level low warning,Battery
+battery critically low,Battery
+device battery needs replacement,Battery
+power supply unstable,Battery
+motion detected in living room,Security
+motion detected at main gate,Security
+unauthorized access attempt detected,Security
+intrusion detected in warehouse,Security
+temperature above threshold,Temperature
+temperature sensor reading high,Temperature
+overheating detected in motor,Temperature
+cooling system failure temperature rising,Temperature
+sensor failure detected,Fault
+pressure sensor malfunction,Fault
+device not responding,Fault
+communication error detected,Fault
+system running normally,Normal
+device operating within limits,Normal
+all sensors functioning properly,Normal
+routine status update normal,Normal
+gas leakage detected alert,Alert
+smoke detected in kitchen,Alert
+fire alarm triggered,Alert
+water leakage detected in basement,Alert
